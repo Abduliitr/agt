@@ -28,6 +28,8 @@
 .listing{
     padding-left: 5px;
     padding-right: 5px;
+    display: inline-block;
+    margin-top: 5px;
 }
 
 .timeline {
